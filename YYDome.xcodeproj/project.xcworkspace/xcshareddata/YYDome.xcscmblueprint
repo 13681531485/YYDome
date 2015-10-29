@@ -1,0 +1,34 @@
+{
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "b3ea32e5-604c-4fca-b5db-6ae888a3e4b3++5760" : {
+
+    },
+    "d3b33442-203a-4b98-a023-85834f8d8bd5++1585" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "b3ea32e5-604c-4fca-b5db-6ae888a3e4b3++5760" : 0,
+    "d3b33442-203a-4b98-a023-85834f8d8bd5++1585" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "460332E1-8BC0-4988-9106-280B18116B97",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "b3ea32e5-604c-4fca-b5db-6ae888a3e4b3++5760" : "YYDome\/%E7%AC%AC%E4%B8%89%E6%96%B9%E5%BA%93\/AFNetworking\/SDWebImage\/",
+    "d3b33442-203a-4b98-a023-85834f8d8bd5++1585" : "YYDome\/%E7%AC%AC%E4%B8%89%E6%96%B9%E5%BA%93\/MMProgressHUD\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "YYDome",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "YYDome.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "http:\/\/yangj.5166.info\/1000phone",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "b3ea32e5-604c-4fca-b5db-6ae888a3e4b3++5760"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "http:\/\/192.168.88.8\/qfproj",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "d3b33442-203a-4b98-a023-85834f8d8bd5++1585"
+    }
+  ]
+}
