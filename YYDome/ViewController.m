@@ -29,6 +29,8 @@
     [btn addTarget:self action:@selector(on) forControlEvents:UIControlEventTouchUpInside];
     int a  = 10;
     int b  = 5;
+    int c = 12;
+    int d = 56;
     [self.view addSubview:btn];
 }
 
