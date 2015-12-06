@@ -27,7 +27,7 @@
     [btn setTitle:@"点击" forState:UIControlStateNormal];
     [btn setTitleColor:[UIColor orangeColor] forState:UIControlStateNormal];
     [btn addTarget:self action:@selector(on) forControlEvents:UIControlEventTouchUpInside];
-    
+    int a  = 10;
     [self.view addSubview:btn];
 }
 
