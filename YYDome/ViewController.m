@@ -28,6 +28,7 @@
     [btn setTitleColor:[UIColor orangeColor] forState:UIControlStateNormal];
     [btn addTarget:self action:@selector(on) forControlEvents:UIControlEventTouchUpInside];
     int a  = 10;
+    int b  = 5;
     [self.view addSubview:btn];
 }
 
